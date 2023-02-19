@@ -8,14 +8,12 @@ body {
 
 .textview{
   display: inline-block;
-	margin: 2px;
-	width: 198px;
-	height: 29px;
+	margin: 5px;
+	width: 200px;
+	height: 30px;
 	font-size: 20px;
     font-weight: bold;
     background-color: rgba(245, 242, 237, 0.589);
-	/* background:none */
-	/* border-radius: 10px; */
 	border: none;
 }
 
