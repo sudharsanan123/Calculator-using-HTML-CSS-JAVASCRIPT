@@ -1,21 +1,16 @@
 body {
-	/* background: url(http://www.inkspilldesign.com/demo/wood-tile-background.jpg); */
-	/* background-color: #424242; */
-	/* font-family: Tahoma; */
+
 	background-image: url("green-sand-paper_53876-86281.webp");
-	/* background-image: url("Scooter.jpg"); */
 }
 
 .textview{
   display: inline-block;
-	margin: 2px;
-	width: 198px;
-	height: 29px;
+	margin: 5px;
+	width: 200px;
+	height: 30px;
 	font-size: 20px;
     font-weight: bold;
     background-color: rgba(245, 242, 237, 0.589);
-	/* background:none */
-	/* border-radius: 10px; */
 	border: none;
 }
 
@@ -87,7 +82,6 @@ h1{
 }
 .container{
 		background: rgba(82, 78, 78, 0.589);
-		/* background-size: 100px 80px; */
 		background-size: cover;
 		position:absolute;
         top:50%;
