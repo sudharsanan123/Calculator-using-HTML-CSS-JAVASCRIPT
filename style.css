@@ -1,9 +1,6 @@
 body {
-	/* background: url(http://www.inkspilldesign.com/demo/wood-tile-background.jpg); */
-	/* background-color: #424242; */
-	/* font-family: Tahoma; */
+
 	background-image: url("green-sand-paper_53876-86281.webp");
-	/* background-image: url("Scooter.jpg"); */
 }
 
 .textview{
@@ -85,7 +82,6 @@ h1{
 }
 .container{
 		background: rgba(82, 78, 78, 0.589);
-		/* background-size: 100px 80px; */
 		background-size: cover;
 		position:absolute;
         top:50%;
